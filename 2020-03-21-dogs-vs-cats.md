@@ -4,7 +4,7 @@ date: 2020-03-21
 tags: [Kaggle, Image Classification, Keras, Machine Learning, CNN]
 excerpt: "Classify whether images contain either a dog or a cat"
 header:
-  overlay_image: "/images/dogs-vs-cats/home-page.jpg"
+  overlay_image: "/dogs-vs-cats/home-page.jpg"
   caption: "Photo by Tran Mau Tri Tam on Unsplash"
 mathjax: "true"
 ---
@@ -83,7 +83,7 @@ for p in os.listdir(train_path):
     break
 ```
 
-![png](/images/dogs-vs-cats/notebook_3_0.png)
+![png](/dogs-vs-cats/notebook_3_0.png)
 
 ```python
 X_train = []
@@ -227,7 +227,7 @@ plt.figure()
 plt.show()
 ```
 
-![png](/images/dogs-vs-cats/notebook_7_0.png)
+![png](/dogs-vs-cats/notebook_7_0.png)
 
 ## Preprocessing Test Data
 
@@ -282,6 +282,6 @@ plt.tight_layout()
 plt.show()
 ```
 
-![png](/images/dogs-vs-cats/notebook_17_0.png)
+![png](/dogs-vs-cats/notebook_17_0.png)
 
 ## Model Deployment

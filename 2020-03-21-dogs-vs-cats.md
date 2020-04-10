@@ -1,13 +1,4 @@
----
-title: "Dogs vs Cats"
-date: 2020-03-21
-tags: [Kaggle, Image Classification, Keras, Machine Learning, CNN]
-excerpt: "Classify whether images contain either a dog or a cat"
-header:
-  overlay_image: "/dogs-vs-cats/home-page.jpg"
-  caption: "Photo by Tran Mau Tri Tam on Unsplash"
-mathjax: "true"
----
+# Dogs vs Cats
 
 ## Overview
 Here you'll write an algorithm to classify whether images contain either a dog or a cat. This is easy for humans, dogs, and cats. Your computer will find it a bit more difficult.
